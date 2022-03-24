@@ -1,0 +1,26 @@
+body {
+	background-color: hsl(0, 0%, 100%);
+	color: hsl(0, 0%, 0%);
+}
+
+img {
+	filter: grayscale(100%) !important;
+}
+
+.page-header {
+	background-color: hsl(0, 0%, 100%);
+	color: hsl(0, 0%, 0%);
+	background-image: none;
+	position: static;
+}
+
+.section-header{
+	background-color: #fff;
+	padding: 0em !important;
+}
+.section-heading {
+	background-color: hsl(0, 0%, 100%);
+	color: hsl(0, 0%, 0%);
+	padding: 0;
+	text-shadow: none;
+}
